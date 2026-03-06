@@ -11,10 +11,11 @@
 🎓 Técnico em **Informática para Internet** pelo **IFPI**
 
 🧠 Conhecimentos e experiências:
-- 🤖 Robótica básica
-- 🖥️ Instalação e configuração de sistemas operacionais
-- 🌐 Desenvolvimento web
-- 📱 Desenvolvimento de aplicações
+
+- 🤖 Robótica básica  
+- 🖥️ Instalação e configuração de sistemas operacionais  
+- 🌐 Desenvolvimento web  
+- 📱 Desenvolvimento de aplicações  
 
 📚 Atualmente estudando **novas linguagens, tecnologias e frameworks** para aprimorar minhas habilidades como desenvolvedor.
 
@@ -29,38 +30,48 @@ https://instagram.com/ghenrique.x
 
 ## 🚀 Linguagens e Tecnologias
 
-<img align="left" alt="HTML" width="40px"
+<p align="left">
+
+<img alt="HTML" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 
-<img align="left" alt="CSS" width="40px"
+<img alt="CSS" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 
-<img align="left" alt="JavaScript" width="40px"
+<img alt="JavaScript" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
-<img align="left" alt="C" width="40px"
+<img alt="C" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 
-<img align="left" alt="C++" width="40px"
+<img alt="C++" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 
-<img align="left" alt="PHP" width="40px"
+<img alt="PHP" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 
-<img align="left" alt="Flutter" width="40px"
+<img alt="Flutter" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 
-<img align="left" alt="Python" width="40px"
+<img alt="Python" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
-<img align="left" alt="MySQL" width="40px"
+<img alt="MySQL" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
-<img align="left" alt="PostgreSQL" width="40px"
+<img alt="PostgreSQL" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 
-<br/>
-<br/>
+</p>
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghenriquexx&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghenriquexx&layout=compact&theme=tokyonight"/>
+
+</div>
