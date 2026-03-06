@@ -65,12 +65,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
 </p>
 
 ---
+
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghenriquexx&show_icons=true&theme=tokyonight"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghenriquexx&show_icons=true&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghenriquexx&layout=compact&theme=tokyonight"/>
-
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghenriquexx&layout=compact&theme=tokyonight)
